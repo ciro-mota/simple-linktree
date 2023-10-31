@@ -1,10 +1,3 @@
-</p>
-
-<table align="right">
- <tr><td><a href="https://github.com/ciro-mota/simple-linktree/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/ciro-mota/simple-linktree/blob/main/README.pt-br.md">:brazil: Português</a></td></tr>
-</table>
-
 <h2 align="center">🌲 Simple Linktree</h2>
 
 <p align="center">
@@ -18,12 +11,6 @@
 
 This is an open source project that serves as a clean, free and faster alternative to the Linktree website. You can see online through the link below:
 - [**DEMO**](https://links.ciromota.tec.br/)
-
-## 🎁 Sponsoring
-
-If you like this work, give me it a star on GitHub, and consider supporting it:
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=VUS6R8TX53NTS&no_recurring=0&currency_code=USD)
 
 ## ✨ Features:
 
@@ -62,3 +49,8 @@ To change the background and other color elements. Go to the `style.css` inside 
 
 <a target="_blank" href="https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"><img alt="Deploy to GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"></a>
 
+## 🎁 Sponsoring
+
+If you like this work, give me it a star on GitHub, and consider supporting it:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=VUS6R8TX53NTS&no_recurring=0&currency_code=USD)
