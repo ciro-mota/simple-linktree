@@ -10,18 +10,22 @@
 ## 💡 About this project
 
 This is an open source project that serves as a clean, free and faster alternative to the Linktree website. You can see online through the link below:
-- [**DEMO**](https://links.ciromota.tec.br/)
+
+➡️ [**DEMO**](https://links.ciromota.tec.br/)
 
 ## ✨ Features:
 
 ### ☀️ Clean 
 
+- No Javascript, just only HTML and CSS.
 
-No Javascript, just only HTML and CSS.
+### 🔛 Responsive
+
+- Will adapt to most devices
 
 ### 🔓 Telemetry Free
 
-No addition of third-party telemetry elements
+- No addition of third-party telemetry elements
 
 ### 🚀 Performance
 
