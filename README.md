@@ -4,7 +4,6 @@
     <img alt="License" src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ciro-mota/simple-linktree?style=for-the-badge">
 </p>
 
 ## 💡 About this project
@@ -13,19 +12,19 @@ This is an open source project that serves as a clean, free and faster alternati
 
 ➡️ [**DEMO**](https://links.ciromota.tec.br/)
 
-## ✨ Features:
+## ✨ Features
 
-### ☀️ Clean 
+### ☀️ Clean
 
 - No Javascript, just only HTML and CSS.
 
 ### 🔛 Responsive
 
-- Will adapt to most devices
+- Will adapt to most devices.
 
 ### 🔓 Telemetry Free
 
-- No addition of third-party telemetry elements
+- No addition of third-party telemetry elements.
 
 ### 🚀 Performance
 
@@ -39,9 +38,10 @@ You can:
 
 Replace the `profile.jpg` image inside the `img` folder.
 
-- Change the colors in the `style.css` file.
+- Change the colors in the `style.css` file if you want.
 
-To change the background and other color elements. Go to the `style.css` inside the `css` folder and edit lines 4 of up to 8.
+> [!TIP]
+>To change the background and other color elements. Go to the `style.css` inside the `css` folder and edit lines 4 of up to 8.
 
 ## 💻 Deploy
 
