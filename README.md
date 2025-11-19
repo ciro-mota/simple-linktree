@@ -43,6 +43,8 @@ Replace the `profile.jpg` image inside the `img` folder.
 > [!TIP]
 >To change the background and other color elements. Go to the `style.css` inside the `css` folder and edit lines 4 of up to 8.
 
+- Change the share links for your domain in `index.html`.
+
 ## 💻 Deploy
 
 <a target="_blank" style="display: inline-grid" href="https://app.netlify.com/start/deploy?repository=https://github.com/ciro-mota/simple-linktree"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
@@ -52,9 +54,3 @@ Replace the `profile.jpg` image inside the `img` folder.
 <a target="_blank" href="https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/ciro-mota/simple-linktree"><img alt="Deploy to Amplify Console" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg"></a>
 
 <a target="_blank" href="https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"><img alt="Deploy to GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"></a>
-
-## 🎁 Sponsoring
-
-If you like this work, give me it a star on GitHub, and consider supporting it:
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=VUS6R8TX53NTS&no_recurring=0&currency_code=USD)
