@@ -1,11 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
-
 :root {
   --bgColor: #1a1c20;                     /* Change color of page background */
   --elementsColors: #e2e2e3;              /* Change color of words, buttons and icons */
   --buttonHover: #343a40;                 /* Change color of hover efect */
   --buttonHoverShadow: rgba(52,58,64,.5); /* Change color of shadow efect on mouse hover efect */
   --hrColor: #faf8ef;                     /* Change color of hr element */
+}
+
+.pt-sans-regular {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 * {
@@ -45,9 +49,13 @@ body {
 }
 
 .paragraph_img {
-  border-radius: 50%;
-  width: 100px;
   height: 100px;
+  width: auto;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  clip-path: circle(50px at 50% 50%);
   margin-bottom: 1rem;
 }
 
