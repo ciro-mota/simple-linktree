@@ -28,7 +28,7 @@ This is an open source project that serves as a clean, free and faster alternati
 
 ### 🚀 Performance
 
-![](assets/performance.png)
+Lightweight: minimal markup, no JavaScript, and a small CSS footprint to keep the initial render fast. External resources are configured to reduce render-blocking and improve Lighthouse scores.
 
 ## 🎨 Customization
 
@@ -36,7 +36,7 @@ You can:
 
 - Change the profile image.
 
-Replace the `profile.jpg` image inside the `img` folder.
+Replace the `profile.jpg` image inside the `img` folder. Choose images in `png` format or, preferably, `webp`.
 
 - Change the colors in the `style.css` file if you want.
 
@@ -44,6 +44,8 @@ Replace the `profile.jpg` image inside the `img` folder.
 >To change the background and other color elements. Go to the `style.css` inside the `css` folder and edit lines 4 of up to 8.
 
 - Change the share links for your domain in `index.html`.
+
+- With [Font Awesome](https://fontawesome.com/) you can change the decorative icons for the links.
 
 ## 💻 Deploy
 
