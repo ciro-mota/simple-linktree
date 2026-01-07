@@ -36,7 +36,10 @@ You can:
 
 - Change the profile image.
 
-Replace the `profile.jpg` image inside the `img` folder. Choose images in `png` format or, preferably, `webp`.
+> [!TIP]
+>Choose images preferably in `webp` format.
+
+Replace the `profile.webp` image inside the `img` folder.
 
 - Change the colors in the `style.css` file if you want.
 
