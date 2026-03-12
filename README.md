@@ -16,7 +16,7 @@ This is an open source project that serves as a clean, free and faster alternati
 
 ### ☀️ Clean
 
-- No Javascript, just only HTML and CSS.
+- **No Javascript**, just only HTML and CSS.
 
 ### 🔛 Responsive
 
@@ -28,7 +28,7 @@ This is an open source project that serves as a clean, free and faster alternati
 
 ### 🚀 Performance
 
-Lightweight: minimal markup, no JavaScript, and a small CSS footprint to keep the initial render fast. External resources are configured to reduce render-blocking and improve Lighthouse scores.
+Lightweight: minimal markup, with no JavaScript and a small CSS footprint to keep the initial render fast. External resources is only Google Fonts, configured to reduce render-blocking and improve Lighthouse scores.
 
 ## 🎨 Customization
 
@@ -37,18 +37,16 @@ You can:
 - Change the profile image.
 
 > [!TIP]
->Choose images preferably in `webp` format.
+> Choose images preferably in `webp` format.
 
 Replace the `profile.webp` image inside the `img` folder.
 
 - Change the colors in the `style.css` file if you want.
 
 > [!TIP]
->To change the background and other color elements. Go to the `style.css` inside the `css` folder and edit lines 4 of up to 8.
+>To change the background and other color elements. Go to the `style.css` inside the `css` folder and edit lines `4` of up to `8`.
 
-- Change the share links for your domain in `index.html`.
-
-- With [Font Awesome](https://fontawesome.com/) you can change the decorative icons for the links.
+- You can add/change emojis to decorative icons for the links.
 
 ## 💻 Deploy
 
@@ -58,4 +56,11 @@ Replace the `profile.webp` image inside the `img` folder.
 
 <a target="_blank" href="https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/ciro-mota/simple-linktree"><img alt="Deploy to Amplify Console" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg"></a>
 
-<a target="_blank" href="https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"><img alt="Deploy to GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"></a>
+<details><summary><img alt="Deploy to GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"></summary>
+
+- In `Settings` > `Pages`, select `Source: GitHub Actions`.
+
+- Ensure that the branch used in the workflow exists (main; switch to master if necessary).
+
+- Make a push to trigger the deployment.
+</details></a>
