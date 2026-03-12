@@ -37,7 +37,7 @@ ol, ul {
 }
 
 body {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Roboto Mono", monospace;
   color: var(--elementsColors);
   background-color: var(--bgColor);
   margin-top: 20px;
