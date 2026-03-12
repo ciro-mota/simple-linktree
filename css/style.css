@@ -6,8 +6,16 @@
   --hrColor: #faf8ef;                     /* Change color of hr element */
 }
 
-.pt-sans-regular {
-  font-family: "PT Sans", sans-serif;
+
+.roboto-mono-regular {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.space-mono-regular {
+  font-family: "Space Mono", monospace;
   font-weight: 400;
   font-style: normal;
 }
@@ -60,6 +68,7 @@ body {
 }
 
 .paragraph_title {
+  font-family: "Space Mono", monospace;
   font-size: 36px;
   margin-bottom: 1rem
 }
