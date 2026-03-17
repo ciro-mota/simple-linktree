@@ -46,7 +46,7 @@ Replace the `profile.webp` image inside the `img` folder.
 > [!TIP]
 >To change the background and other color elements. Go to the `style.css` inside the `css` folder and edit lines `4` of up to `8`.
 
-- You can add/change emojis to decorative icons for the links.
+- You can add/change emojis to decorative icons for the links. Or, copy a SVG image in [Remix Icons](https://remixicon.com/) and paste into the `.html`.
 
 ## 💻 Deploy
 
