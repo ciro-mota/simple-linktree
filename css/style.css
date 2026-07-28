@@ -1,8 +1,8 @@
 :root {
   --bgColor: #1a1c20;                     /* Change color of page background */
   --elementsColors: #e2e2e3;              /* Change color of words, buttons and icons */
-  --buttonHover: #343a40;                 /* Change color of hover efect */
-  --buttonHoverShadow: rgba(52,58,64,.5); /* Change color of shadow efect on mouse hover efect */
+  --buttonHover: #343a40;                 /* Change color of hover effect */
+  --buttonHoverShadow: rgba(52,58,64,.5); /* Change color of shadow effect on mouse hover */
   --hrColor: #faf8ef;                     /* Change color of hr element */
 }
 
