@@ -60,7 +60,7 @@ Replace the `profile.webp` image inside the `img` folder.
 
 - In `Settings` > `Pages`, select `Source: GitHub Actions`.
 
-- Ensure that the branch used in the workflow exists (main; switch to master if necessary).
+- Ensure that the branch used in the workflow exists (default `main`, switch to `master` if necessary).
 
 - Make a push to trigger the deployment.
 </details></a>
